@@ -4,7 +4,7 @@
 
 Este repositorio servirá para administrar toda la información relacionada con su proyecto final. Por favor, completen la información que a continuación se solicita y procuren mantenerlo actualizando concentrando toda la información relacionada con su proyecto en este repositorio, esto facilitará para los integrantes del equipo, mentores y cualquier persona interesada el acceso facil a toda la información relacionada con el mismo.
 
-# Nombre: BrightBets
+# Nombre:
 
 ## Problematica que atiende
 
