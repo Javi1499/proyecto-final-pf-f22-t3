@@ -4,30 +4,30 @@
 
 Este repositorio servirá para administrar toda la información relacionada con su proyecto final. Por favor, completen la información que a continuación se solicita y procuren mantenerlo actualizando concentrando toda la información relacionada con su proyecto en este repositorio, esto facilitará para los integrantes del equipo, mentores y cualquier persona interesada el acceso facil a toda la información relacionada con el mismo.
 
-# Nombre
+# Nombre: BrightBets
 
 ## Problematica que atiende
-Describan la problemática que pretenden atender con su proyecto
+Actualmente las páginas de apuestas no suelen contar con la opción de tener una cuenta personal con dinero ficticio para jugar en sus diferentes juegos.
 
 ## Propuesta de solución
-Describan de manera general las características de tu propuesta así como la forma en que atiende o resuelve la problemática que definieron.
+Una aplicación web en la que los usuarios podrán divertirse apostando sin perder dinero, tendrá varios juegos comunes de las paginas de apuestas, y contará con interacción en tiempo real con otros jugadores.
+
 
 ## Plan General
-Considerando que el tiempo que tienen para desarrollar el proyecto es relativamente corto, es importante elaborar un plan general de trabajo que les permita dimensionar el máximo alcance que pudieran tener durante este tiempo. Se trata solamente de un plan que pudiera ir cambiando pero, servirá como referencia. No es necesario que sea muy detallado, por ejemplo:
-
-| Semana 1 | Semana 2 | Semana 3 |
-|----------|----------|----------|
-| Preparación inicial del proyecto y modelado de datos | Registro y autenticación | CRUD Usuarios |
-
-| Semana 1 | Semana 2 | Semana 3 | Semana 4 | Semana 5 | Semana 6 | Semana 7 | Semana 8 |
-|----------|----------|----------|----------|----------|----------|----------|----------|
-|          |          |          |          |          |          |          |          |
+Semana 1 (Estructura inicial, cuenta del usuario y diseño general)
+Semana 2 (Desarrollo del premio diario en coins)
+Semana 3 - 4 (Desarrollo juego de la nave)
+Semana 5 - 6 (Desarrollo juego de las minas)
+Semana 7 - 8 (Desarrollo juego carrera de caballos)
 
 ## Requerimientos funcionales
-Describan los requerimientos funcionales a desarrollar considerados para el prototipo.
+La aplicación debe contar con un registro de usuarios
+La aplicación debe contar con un mínimo de 3 minijuegos de apuestas
 
 ## Requerimientos no funcionales
-Describan los requerimientos no funcinales a considerar
+Implementación en Heroku
+Base de datos Postgres
+Diseño responsivo
 
 ## Diseño del MVP
 
